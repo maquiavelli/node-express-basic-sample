@@ -1,0 +1,17 @@
+{
+  "name": "node-express-basic-sample",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "uuidv4": "^6.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
